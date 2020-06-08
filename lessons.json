@@ -16,10 +16,10 @@
 ],
 "modules": [
 {
-    "title": "What is video?",
-    "anchor": "what-is-video",
+    "title": "What is Videotape?",
+    "anchor": "what-is-videotape",
     "icon" : "fa-clone",
-    "description": "We learn about the history of analog video recording formats how to distinguish among the types of analog signals that share space on a magnetic carrier.",
+    "description": "We learn about the history of analog video recording formats.",
     "slides": "lectures/01_html5.zip",
     "references" : [
         {
@@ -103,7 +103,7 @@
     "title": "Video Standards Overview",
     "anchor": "video-standards-overview",
     "icon" : "fa-clone",
-    "description": "We learn about the organizations that develop and support the variety of standards and guidelines for digitizing analog videotapes.",
+    "description": "We learn about the variety of standards and guidelines for digitizing analog videotapes.",
     "slides": "lectures/02_html5.zip",
     "references" : [
         {
@@ -207,7 +207,7 @@
     "title": "Video Ethics",
     "anchor": "video-ethics",
     "icon" : "fa-clone",
-    "description": "We learn about the impact of technical decision making on the shape and preservability of the products that result from digital reformatting.",
+    "description": "We learn about the ethics of technical decision making on the shape and preservability of digital reformatting.",
     "slides": "lectures/03_html5.zip",
     "references" : [
         {
@@ -321,10 +321,10 @@
     ]
 },
 {
-    "title": "Video Media Assessment",
-    "anchor": "video-media-assessment",
+    "title": "Analog Video Formats",
+    "anchor": "analog-video-formats",
     "icon" : "fa-clone",
-    "description": "We apply new tools for evaluating value and risk in video resources to assign digitization priorities.",
+    "description": "We consider the types of analog video signal formats.",
     "slides": "lectures/01_css3.zip",
     "references" : [
         {
@@ -430,10 +430,10 @@
     ]
 },
 {
-    "title": "Analog Videotape Formats",
-    "anchor": "analog-videotape-formats",
+    "title": "Video Risk Assessment",
+    "anchor": "video-risk-assessment",
     "icon" : "fa-clone",
-    "description": "We consider three case studies about the types of analog video formats and their contextual uses.",
+    "description": "We apply new tools for evaluating value and risk in video resources to assign digitization priorities.",
     "slides": "lectures/02_css3.zip",
     "references" : [
         {
@@ -543,10 +543,10 @@
     ]
 },
 {
-    "title": "Video Infrastructure",
-    "anchor": "video-infrastructure",
+    "title": "Digitizing Video Essences",
+    "anchor": "digitizing-video-essences",
     "icon" : "fa-clone",
-    "description": "We learn about machine dependency and the complexities of playback for digital reformatting.",
+    "description": "We learn about standards and best practices for digitizing the video and audio signals on videotape.",
     "slides": "lectures/03_css3.zip",
     "references" : [
         {
@@ -615,8 +615,8 @@
     ]
 },
 {
-    "title": "Outsourcing Video Work",
-    "anchor": "outsourcing-video-work",
+    "title": "Contracting for Video Digitization",
+    "anchor": "contacting-for-video-digitization",
     "icon" : "fa-clone",
     "description": "We learn about discussing digitization services with third-party vendors.",
     "slides": "lectures/04_css3.zip",
@@ -695,10 +695,10 @@
     ]
 },
 {
-    "title": "Signal Processing and Digital Encoding",
-    "anchor": "signal-processing-and-digital-encoding",
+    "title": "Video Facility Infrastructure",
+    "anchor": "video-facility-infrastructure",
     "icon" : "fa-clone",
-    "description": "We learn to distinguish between containers, coded data, and file extensions for a variety of file formats.",
+    "description": "We learn about minimum requirements for in-house videotape equipment.",
     "slides": "lectures/01_js.zip",
     "references" : [
         {
@@ -799,10 +799,10 @@
     ]
 },
 {
-    "title": "Timestamping and Captioning",
-    "anchor": "timestamping-and-captioning",
+    "title": "Time Codes & Captioning",
+    "anchor": "time-codes-and-captioning",
     "icon" : "fa-clone",
-    "description": "We learn about the challenges of extracting and encoding complex time codes and textual information on analog videotapes.",
+    "description": "We learn about the digitization challenges of complex time codes and textual information on videotapes.",
     "slides": "lectures/02_js.zip",
     "references" : [
         {
@@ -888,10 +888,10 @@
     ]
 },
 {
-    "title": "Audiovisual Artifacts",
-    "anchor": "audiovisual-artifacts",
+    "title": "Preservation Wrappers & Encoding",
+    "anchor": "preservation-wrappers-and-encoding",
     "icon" : "fa-clone",
-    "description": "We learn how to use the Audiovisual Artifacts Atlas to identify digitization problems.",
+    "description": "We learn about three target formats for encoding and wrapping digital files.",
     "slides": "lectures/03_js.zip",
     "references" : [
         {
@@ -1044,10 +1044,10 @@
     ]
 },
 {
-    "title": "Metadata Inside a Digital File",
-    "anchor": "metadata-inside-a-digital-file",
+    "title": "Quality Control Workflow",
+    "anchor": "quality-control-workflow",
     "icon" : "fa-clone",
-    "description": "We learn about embedding and validating metadata for video files.",
+    "description": "We learn about approaches to ensuring the quality of the preservation master file.",
     "slides": "lectures/01_rd.zip",
     "references" : [
         {
@@ -1140,10 +1140,10 @@
     ]
 },
 {
-    "title": "Technical Metadata About Video Files",
-    "anchor": "technical-metadata-about-video-files",
+    "title": "Metadata About Video Files",
+    "anchor": "metadata-about-video-files",
     "icon" : "fa-clone",
-    "description": "We learn about standards for documenting the technical features of video and audio signals, timestamping, and captions.",
+    "description": "We learn about standards for documenting the technical features of digitized video in external databases.",
     "slides": "lectures/02_rd.zip",
     "references" : [
         {
@@ -1208,7 +1208,7 @@
     "title": "Future of Video Digitization",
     "anchor": "future-of-video-digitization",
     "icon" : "fa-clone",
-    "description": "We learn about the aspirations of the technical standards community for long-term preservation and access.",
+    "description": "We learn about the aspirations of the standards community for long-term preservation and access.",
     "slides": "lectures/03_rd.zip",
     "references" : [
         {
