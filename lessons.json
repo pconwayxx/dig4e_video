@@ -20,7 +20,20 @@
     "anchor": "what-is-videotape",
     "icon" : "fa-clone",
     "description": "We learn about the history of analog video recording formats.",
-    "slides": "lectures/01_html5.zip",
+    "lectures": [
+        {
+            "title" : "Visual foundations",
+            "youtube" : "https://www.youtube.com/watch?v=rVN1B-tUpgs"
+        },
+        {
+            "title" : "Seeing on screen and in print",
+            "youtube" : "https://www.youtube.com/watch?v=rVN1B-tUpgs"
+        },
+        {
+            "title" : "Digital imaging terminology",
+            "youtube" : "https://www.youtube.com/watch?v=rVN1B-tUpgs"
+        }
+    ],
     "references" : [
         {
             "title" : "Document: Syllabus",
@@ -104,7 +117,20 @@
     "anchor": "video-standards-overview",
     "icon" : "fa-clone",
     "description": "We learn about the variety of standards and guidelines for digitizing analog videotapes.",
-    "slides": "lectures/02_html5.zip",
+    "lectures": [
+        {
+            "title" : "Visual foundations",
+            "youtube" : "https://www.youtube.com/watch?v=rVN1B-tUpgs"
+        },
+        {
+            "title" : "Seeing on screen and in print",
+            "youtube" : "https://www.youtube.com/watch?v=rVN1B-tUpgs"
+        },
+        {
+            "title" : "Digital imaging terminology",
+            "youtube" : "https://www.youtube.com/watch?v=rVN1B-tUpgs"
+        }
+    ],
     "references" : [
         {
             "title" : "Video: The Document Object Model [DOM]",
@@ -208,7 +234,20 @@
     "anchor": "video-ethics",
     "icon" : "fa-clone",
     "description": "We learn about the ethics of technical decision making on the shape and preservability of digital reformatting.",
-    "slides": "lectures/03_html5.zip",
+    "lectures": [
+        {
+            "title" : "Visual foundations",
+            "youtube" : "https://www.youtube.com/watch?v=rVN1B-tUpgs"
+        },
+        {
+            "title" : "Seeing on screen and in print",
+            "youtube" : "https://www.youtube.com/watch?v=rVN1B-tUpgs"
+        },
+        {
+            "title" : "Digital imaging terminology",
+            "youtube" : "https://www.youtube.com/watch?v=rVN1B-tUpgs"
+        }
+    ],
     "references" : [
         {
             "title" : "Video: Accessibility",
@@ -325,7 +364,20 @@
     "anchor": "analog-video-formats",
     "icon" : "fa-clone",
     "description": "We consider the types of analog video signal formats.",
-    "slides": "lectures/01_css3.zip",
+    "lectures": [
+        {
+            "title" : "Visual foundations",
+            "youtube" : "https://www.youtube.com/watch?v=rVN1B-tUpgs"
+        },
+        {
+            "title" : "Seeing on screen and in print",
+            "youtube" : "https://www.youtube.com/watch?v=rVN1B-tUpgs"
+        },
+        {
+            "title" : "Digital imaging terminology",
+            "youtube" : "https://www.youtube.com/watch?v=rVN1B-tUpgs"
+        }
+    ],
     "references" : [
         {
             "title" : "Document: Syllabus",
@@ -434,7 +486,20 @@
     "anchor": "video-risk-assessment",
     "icon" : "fa-clone",
     "description": "We apply new tools for evaluating value and risk in video resources to assign digitization priorities.",
-    "slides": "lectures/02_css3.zip",
+    "lectures": [
+        {
+            "title" : "Visual foundations",
+            "youtube" : "https://www.youtube.com/watch?v=rVN1B-tUpgs"
+        },
+        {
+            "title" : "Seeing on screen and in print",
+            "youtube" : "https://www.youtube.com/watch?v=rVN1B-tUpgs"
+        },
+        {
+            "title" : "Digital imaging terminology",
+            "youtube" : "https://www.youtube.com/watch?v=rVN1B-tUpgs"
+        }
+    ],
     "references" : [
         {
             "title" : "Document: Resources",
@@ -547,7 +612,20 @@
     "anchor": "digitizing-video-essences",
     "icon" : "fa-clone",
     "description": "We learn about standards and best practices for digitizing the video and audio signals on videotape.",
-    "slides": "lectures/03_css3.zip",
+    "lectures": [
+        {
+            "title" : "Visual foundations",
+            "youtube" : "https://www.youtube.com/watch?v=rVN1B-tUpgs"
+        },
+        {
+            "title" : "Seeing on screen and in print",
+            "youtube" : "https://www.youtube.com/watch?v=rVN1B-tUpgs"
+        },
+        {
+            "title" : "Digital imaging terminology",
+            "youtube" : "https://www.youtube.com/watch?v=rVN1B-tUpgs"
+        }
+    ],
     "references" : [
         {
             "title" : "Document: Resources",
@@ -619,7 +697,20 @@
     "anchor": "contracting-for-video-digitization",
     "icon" : "fa-clone",
     "description": "We learn about discussing digitization services with third-party vendors.",
-    "slides": "lectures/04_css3.zip",
+    "lectures": [
+        {
+            "title" : "Visual foundations",
+            "youtube" : "https://www.youtube.com/watch?v=rVN1B-tUpgs"
+        },
+        {
+            "title" : "Seeing on screen and in print",
+            "youtube" : "https://www.youtube.com/watch?v=rVN1B-tUpgs"
+        },
+        {
+            "title" : "Digital imaging terminology",
+            "youtube" : "https://www.youtube.com/watch?v=rVN1B-tUpgs"
+        }
+    ],
     "references" : [
         {
             "title" : "Document: Resources",
@@ -699,7 +790,20 @@
     "anchor": "video-facility-infrastructure",
     "icon" : "fa-clone",
     "description": "We learn about minimum requirements for in-house videotape equipment.",
-    "slides": "lectures/01_js.zip",
+    "lectures": [
+        {
+            "title" : "Visual foundations",
+            "youtube" : "https://www.youtube.com/watch?v=rVN1B-tUpgs"
+        },
+        {
+            "title" : "Seeing on screen and in print",
+            "youtube" : "https://www.youtube.com/watch?v=rVN1B-tUpgs"
+        },
+        {
+            "title" : "Digital imaging terminology",
+            "youtube" : "https://www.youtube.com/watch?v=rVN1B-tUpgs"
+        }
+    ],
     "references" : [
         {
             "title" : "Document: Syllabus",
@@ -803,7 +907,20 @@
     "anchor": "time-codes-and-captioning",
     "icon" : "fa-clone",
     "description": "We learn about the digitization challenges of complex time codes and textual information on videotapes.",
-    "slides": "lectures/02_js.zip",
+    "lectures": [
+        {
+            "title" : "Visual foundations",
+            "youtube" : "https://www.youtube.com/watch?v=rVN1B-tUpgs"
+        },
+        {
+            "title" : "Seeing on screen and in print",
+            "youtube" : "https://www.youtube.com/watch?v=rVN1B-tUpgs"
+        },
+        {
+            "title" : "Digital imaging terminology",
+            "youtube" : "https://www.youtube.com/watch?v=rVN1B-tUpgs"
+        }
+    ],
     "references" : [
         {
             "title" : "Document: Link to All of the Code for Week 2",
@@ -892,7 +1009,20 @@
     "anchor": "preservation-wrappers-and-encoding",
     "icon" : "fa-clone",
     "description": "We learn about three target formats for encoding and wrapping digital files.",
-    "slides": "lectures/03_js.zip",
+   "lectures": [
+        {
+            "title" : "Visual foundations",
+            "youtube" : "https://www.youtube.com/watch?v=rVN1B-tUpgs"
+        },
+        {
+            "title" : "Seeing on screen and in print",
+            "youtube" : "https://www.youtube.com/watch?v=rVN1B-tUpgs"
+        },
+        {
+            "title" : "Digital imaging terminology",
+            "youtube" : "https://www.youtube.com/watch?v=rVN1B-tUpgs"
+        }
+    ],
     "references" : [
         {
             "title" : "Document: Link to All of the Code for Week 3",
@@ -972,7 +1102,20 @@
     "anchor": "digital-distribution-formats-for-video",
     "icon" : "fa-clone",
     "description": "We learn about the digital file formats that facilitate online playback of digitized analog video.",
-    "slides": "lectures/04_js.zip",
+   "lectures": [
+        {
+            "title" : "Visual foundations",
+            "youtube" : "https://www.youtube.com/watch?v=rVN1B-tUpgs"
+        },
+        {
+            "title" : "Seeing on screen and in print",
+            "youtube" : "https://www.youtube.com/watch?v=rVN1B-tUpgs"
+        },
+        {
+            "title" : "Digital imaging terminology",
+            "youtube" : "https://www.youtube.com/watch?v=rVN1B-tUpgs"
+        }
+    ],
     "references" : [
         {
             "title" : "Document: Link to All of the Code for Week 4",
@@ -1048,7 +1191,20 @@
     "anchor": "quality-control-workflow",
     "icon" : "fa-clone",
     "description": "We learn about approaches to ensuring the quality of the preservation master file.",
-    "slides": "lectures/01_rd.zip",
+    "lectures": [
+        {
+            "title" : "Visual foundations",
+            "youtube" : "https://www.youtube.com/watch?v=rVN1B-tUpgs"
+        },
+        {
+            "title" : "Seeing on screen and in print",
+            "youtube" : "https://www.youtube.com/watch?v=rVN1B-tUpgs"
+        },
+        {
+            "title" : "Digital imaging terminology",
+            "youtube" : "https://www.youtube.com/watch?v=rVN1B-tUpgs"
+        }
+    ],
     "references" : [
         {
             "title" : "Document: Syllabus",
@@ -1144,7 +1300,20 @@
     "anchor": "metadata-about-video-files",
     "icon" : "fa-clone",
     "description": "We learn about standards for documenting the technical features of digitized video in external databases.",
-    "slides": "lectures/02_rd.zip",
+    "lectures": [
+        {
+            "title" : "Visual foundations",
+            "youtube" : "https://www.youtube.com/watch?v=rVN1B-tUpgs"
+        },
+        {
+            "title" : "Seeing on screen and in print",
+            "youtube" : "https://www.youtube.com/watch?v=rVN1B-tUpgs"
+        },
+        {
+            "title" : "Digital imaging terminology",
+            "youtube" : "https://www.youtube.com/watch?v=rVN1B-tUpgs"
+        }
+    ],
     "references" : [
         {
             "title" : "Video: Media Queries",
@@ -1209,7 +1378,20 @@
     "anchor": "future-of-video-digitization",
     "icon" : "fa-clone",
     "description": "We learn about the aspirations of the standards community for long-term preservation and access.",
-    "slides": "lectures/03_rd.zip",
+   "lectures": [
+        {
+            "title" : "Visual foundations",
+            "youtube" : "https://www.youtube.com/watch?v=rVN1B-tUpgs"
+        },
+        {
+            "title" : "Seeing on screen and in print",
+            "youtube" : "https://www.youtube.com/watch?v=rVN1B-tUpgs"
+        },
+        {
+            "title" : "Digital imaging terminology",
+            "youtube" : "https://www.youtube.com/watch?v=rVN1B-tUpgs"
+        }
+    ],
     "references" : [
         {
             "title" : "Video: Frameworks",
