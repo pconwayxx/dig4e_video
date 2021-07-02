@@ -4,7 +4,7 @@ $R = $CFG->apphome . '/';
 $T = $CFG->wwwroot . '/';
 $adminmenu = isset($_COOKIE['adminmenu']) && $_COOKIE['adminmenu'] == "true";
 $set = new \Tsugi\UI\MenuSet();
-$set->setHome('Dig4E', 'https://www.dig4e.com');
+$set->setHome('<img src="'.$CFG->apphome.'/images/dig4e-logo-transparent.png" style="height: 1em;" alt="Link back to main Digitization for Everybody Site"/>', 'https://www.dig4e.com');
 $set->addLeft($CFG->servicename, $CFG->apphome);
 if ( isset($CFG->lessons) ) {
     $set->addLeft('Lessons', $R.'lessons');
