@@ -11,6 +11,6 @@
 This course is about the preservation standards and best practices for video preservation. 
 </p>
 </div>
-<?php include("footer.php"); ?>
+<?php include("foot.php"); ?>
 </body>
 </html>

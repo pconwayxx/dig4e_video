@@ -2,7 +2,7 @@
 
 $foot = '
 <p style="font-size: 75%; margin-top: 5em;">
-Copyright Creative Commons Attribution 3.0 - Colleen Van Lent
+Copyright Creative Commons Attribution 3.0 - Paul Conway
 </p>';
 
 $OUTPUT->setAppFooter($foot);
