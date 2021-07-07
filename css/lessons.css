@@ -3,21 +3,17 @@
     width: 4em !important;
 }
 
-.navbar-brand {
-    href: https://www.dig4e.com;  
-}
-
 .tsugi-module-image-icon {
     width: 4em !important;
 }
 
 .tsugi-lessons-module-title{
-    color: #9e4f00;
+    color: #575294;
     font-weight: 600;
 }
 
 .tsugi-lessons-module-description{
-    color: #555555;
+    color: hsl(0, 0%, 33%);
     font-family: "Lusitana", Sans-Serif;
     font-weight: 500;
     font-size: 24px;
@@ -27,7 +23,7 @@
 
 /* Lectures */
 .tsugi-lessons-module-lectures{
-    color: #9e4f00;
+    color: #575294;
     font-family: "Raleway", Sans-Serif;
     font-weight: 600;
     font-size: 28px;
@@ -52,7 +48,7 @@
 }
 
 .tsugi-lessons-module-lecture-youtube a::before{
-    background-image: url('Icons/Imaging_Icons/Video.png');
+    background-image: url('icons/Video/play-button-12.png');
     background-size: 2em 2em;
     display: inline-block;
     width: 2em;
@@ -64,7 +60,7 @@
 }
 
 .tsugi-lessons-module-lecture-audio a::before{
-    background-image: url('Icons/Imaging_Icons/Audio.png');
+    background-image: url('icons/Video/microphone-14.png');
     background-size: 2em 2em;
     display: inline-block;
     width: 2em;
@@ -77,7 +73,7 @@
 
 /* References */
 .tsugi-lessons-module-references{
-    color: #9e4f00;
+    color: #575294;
     font-family: "Raleway", Sans-Serif;
     font-weight: 600;
     font-size: 28px;
@@ -115,7 +111,7 @@
 */
 
 .tsugi-lessons-module-reference-icon{
-    background-image: url('Icons/Imaging_Icons/Resource.png');
+    background-image: url('icons/Video/file-10-150x150.png');
     background-size: 2em 2em;
     display: inline-block;
     width: 2em;
@@ -140,7 +136,7 @@
 }
 
 .tsugi-lessons-module-assignments p{
-    color: #9e4f00;
+    color: #575294;
     font-family: "Raleway", Sans-Serif;
     font-weight: 600;
     font-size: 28px;

@@ -30,7 +30,7 @@
 {
     "title": "What is Videotape?",
     "anchor": "what-is-videotape",
-    "image" : "{apphome}/css/Icons/Imaging_Icons/01.png",
+    "image" : "{apphome}/icons/Video/video_lu_01.png",
     "description": "We learn about the history of analog video recording formats.",
     "lectures": [
         {
