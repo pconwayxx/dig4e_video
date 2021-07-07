@@ -1,1 +1,239 @@
+/* Module Style */
+.tsugi-all-modules-image-icon {
+    width: 4em !important;
+}
+
+.navbar-brand {
+    href: https://www.dig4e.com;  
+}
+
+.tsugi-module-image-icon {
+    width: 4em !important;
+}
+
+.tsugi-lessons-module-title{
+    color: #9e4f00;
+    font-weight: 600;
+}
+
+.tsugi-lessons-module-description{
+    color: #555555;
+    font-family: "Lusitana", Sans-Serif;
+    font-weight: 500;
+    font-size: 24px;
+    margin-bottom: 1em;
+    vertical-align: middle !important;
+}
+
+/* Lectures */
+.tsugi-lessons-module-lectures{
+    color: #9e4f00;
+    font-family: "Raleway", Sans-Serif;
+    font-weight: 600;
+    font-size: 28px;
+    list-style: none;
+}
+
+.tsugi-lessons-module-lectures p{
+    vertical-align: top;
+    display: inline-block;
+    font-weight: 600;
+    margin-bottom: 1em;
+}
+
+.tsugi-lessons-module-lecture{
+    color: #555555;
+    font-family: "Lusitana", Sans-serif;
+    font-size: 18px;
+    font-weight: 500;
+    margin-bottom: 1em;
+    list-style: none;
+    vertical-align: top;
+}
+
+.tsugi-lessons-module-lecture-youtube a::before{
+    background-image: url('Icons/Imaging_Icons/Video.png');
+    background-size: 2em 2em;
+    display: inline-block;
+    width: 2em;
+    height: 2em;
+    content: "";
+    margin-right: .5em;
+    margin-bottom: 1em;
+    vertical-align: top;
+}
+
+.tsugi-lessons-module-lecture-audio a::before{
+    background-image: url('Icons/Imaging_Icons/Audio.png');
+    background-size: 2em 2em;
+    display: inline-block;
+    width: 2em;
+    height: 2em;
+    content: "";
+    margin-right: .5em;
+    margin-bottom: 1em;
+    vertical-align: top;
+}
+
+/* References */
+.tsugi-lessons-module-references{
+    color: #9e4f00;
+    font-family: "Raleway", Sans-Serif;
+    font-weight: 600;
+    font-size: 28px;
+    list-style: none;
+    margin-bottom: 1em;
+}
+
+ .tsugi-lessons-module-references p{
+    display: inline-block;
+    width: 90%;
+}
+
+.tsugi-lessons-module-reference{
+    color: #555555;
+    font-family: "Lusitana", Sans-serif;
+    font-size: 18px;
+    font-weight: 500;
+    padding: 5px 0px 5px 0px;
+    list-style: none;
+}
+
+/*
+ .tsugi-lessons-module-reference a::before{
+    background-image: url('Icons/Imaging_Icons/Resource.png');
+    background-size: 2em 2em;
+    display: inline-block;
+    overflow: hidden;
+    width: 25%;
+    height: 2em;
+    content: "";
+    margin-right: 3px;
+    margin-bottom: 4px;
+    vertical-align: middle;
+}
+*/
+
+.tsugi-lessons-module-reference-icon{
+    background-image: url('Icons/Imaging_Icons/Resource.png');
+    background-size: 2em 2em;
+    display: inline-block;
+    width: 2em;
+    height: 2em;
+    content: "";
+    vertical-align: top;
+    margin-bottom: 1em;
+}
+
+.tsugi-lessons-module-reference-link{
+    display: inline-block;
+    overflow: hidden;
+    width: 90%;
+    vertical-align: top;
+    margin-left: 0.5em;
+    margin-bottom: 1em;
+}
+
+/* Assignments */
+.tsugi-lessons-module-assignments{
+    list-style: none;
+}
+
+.tsugi-lessons-module-assignments p{
+    color: #9e4f00;
+    font-family: "Raleway", Sans-Serif;
+    font-weight: 600;
+    font-size: 28px;
+}
+
+.tsugi-lessons-module-assignments ul{
+    font-family: "Lusitana", Sans-serif;
+    font-size: 18px;
+    list-style: none;
+    display: inline-block;
+    margin-left: 2.3em;
+    padding: 25px 0px 25px 0px;
+    width: 90%;
+}
+
+.tsugi-lessons-module-assignment-youtube a::before{
+    background-image: url('Icons/Imaging_Icons/Video.png');
+    background-size: 2em 2em;
+    display: inline-block;
+    width: 2em;
+    height: 2em;
+    content: "";
+    margin-right: .5em;
+    margin-bottom: 1em;
+    vertical-align: top;
+}
+.tsugi-lessons-module-assignment-icon-audio{
+    background-image: url('Icons/Imaging_Icons/Audio.png');
+    background-size: 2em 2em;
+    display: inline-block;
+    width: 2em;
+    height: 2em;
+    content: "";
+    margin-right: .5em;
+    margin-bottom: 1em;
+    vertical-align: top;
+}
+.tsugi-lessons-module-assignment-icon{
+    background-image: url('Icons/Imaging_Icons/Resource.png');
+    background-size: 2em 2em;
+    display: inline-block;
+    width: 2em;
+    height: 2em;
+    content: "";
+    margin-right: .5em;
+    margin-bottom: 1em;
+    vertical-align: top;
+}
+/*
+.tsugi-lessons-module-assignments-audio a::before{
+    background-image: url('Icons/Imaging_Icons/Audio.png');
+    background-size: 2em 2em;
+    display: inline-block;
+    width: 2em;
+    height: 2em;
+    content: "";
+    margin-right: .5em;
+    margin-bottom: 1em;
+    vertical-align: top;
+}
+*/
+
+/* Slides */
+.tsugi-lessons-module-slides{
+    list-style: none;
+}
+
+.tsugi-lessons-module-slides::before{
+    background-image: url('icons/slides.png');
+    background-size: 2em 2em;
+    display: inline-block;
+    width: 2em;
+    height: 2em;
+    content: "";
+    margin-right: 3px;
+    vertical-align: middle;
+}
+
+.tsugi-lessons-module-slide{
+    list-style: none;
+}
+
+.tsugi-lessons-module-slide a::before{
+    font-family: "Font Awesome 5 Free"; font-weight: 900; content: "\f1c4";
+    padding-right: 3px;
+}
+
+.tsugi-lessons-module-lti{
+    list-style: none;
+}
+
+.tsugi-lessons-module-lti::before{
+    font-family: "Font Awesome 5 Free"; font-weight: 900; content: "\f5ab";
+    padding-right: 3px;
+}
 
