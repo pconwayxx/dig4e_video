@@ -127,7 +127,7 @@
 {
     "title": "Video Standards Overview",
     "anchor": "video-standards-overview",
-    "icon" : "{apphome}/css/Icons/Video_Icons/02.png",
+    "image" : "{apphome}/css/Icons/Video_Icons/02.png",
     "description": "We learn about the variety of standards and guidelines for digitizing analog videotapes.",
     "lectures": [
         {
@@ -244,7 +244,7 @@
 {
     "title": "Video Ethics",
     "anchor": "video-ethics",
-    "icon" : "{apphome}/css/Icons/Video_Icons/03.png",
+    "image" : "{apphome}/css/Icons/Video_Icons/03.png",
     "description": "We learn about the ethics of technical decision making on the shape and preservability of digital reformatting.",
     "lectures": [
         {
@@ -374,7 +374,7 @@
 {
     "title": "Analog Video Formats",
     "anchor": "analog-video-formats",
-    "icon" : "{apphome}/css/Icons/Video_Icons/04.png",
+    "image" : "{apphome}/css/Icons/Video_Icons/04.png",
     "description": "We consider the types of analog video signal formats.",
     "lectures": [
         {
@@ -496,7 +496,7 @@
 {
     "title": "Video Risk Assessment",
     "anchor": "video-risk-assessment",
-    "icon" : "{apphome}/css/Icons/Video_Icons/05.png",
+    "image" : "{apphome}/css/Icons/Video_Icons/05.png",
     "description": "We apply new tools for evaluating value and risk in video resources to assign digitization priorities.",
     "lectures": [
         {
@@ -622,7 +622,7 @@
 {
     "title": "Digitizing Video Essences",
     "anchor": "digitizing-video-essences",
-    "icon" : "{apphome}/css/Icons/Video_Icons/06.png",
+    "image" : "{apphome}/css/Icons/Video_Icons/06.png",
     "description": "We learn about standards and best practices for digitizing the video and audio signals on videotape.",
     "lectures": [
         {
@@ -707,7 +707,7 @@
 {
     "title": "Contracting for Video Digitization",
     "anchor": "contracting-for-video-digitization",
-    "icon" : "{apphome}/css/Icons/Video_Icons/07.png",
+    "image" : "{apphome}/css/Icons/Video_Icons/07.png",
     "description": "We learn about discussing digitization services with third-party vendors.",
     "lectures": [
         {
@@ -800,7 +800,7 @@
 {
     "title": "Video Facility Infrastructure",
     "anchor": "video-facility-infrastructure",
-    "icon" : "{apphome}/css/Icons/Video_Icons/08.png",
+    "image" : "{apphome}/css/Icons/Video_Icons/08.png",
     "description": "We learn about minimum requirements for in-house videotape equipment.",
     "lectures": [
         {
@@ -917,7 +917,7 @@
 {
     "title": "Time Codes & Captioning",
     "anchor": "time-codes-and-captioning",
-    "icon" : "{apphome}/css/Icons/Video_Icons/09.png",
+    "image" : "{apphome}/css/Icons/Video_Icons/09.png",
     "description": "We learn about the digitization challenges of complex time codes and textual information on videotapes.",
     "lectures": [
         {
@@ -1019,7 +1019,7 @@
 {
     "title": "Preservation Wrappers & Encoding",
     "anchor": "preservation-wrappers-and-encoding",
-    "icon" : "{apphome}/css/Icons/Video_Icons/10.png",
+    "image" : "{apphome}/css/Icons/Video_Icons/10.png",
     "description": "We learn about three target formats for encoding and wrapping digital files.",
    "lectures": [
         {
@@ -1112,7 +1112,7 @@
 {
     "title": "Digital Distribution Formats for Video",
     "anchor": "digital-distribution-formats-for-video",
-    "icon" : "{apphome}/css/Icons/Video_Icons/11.png",
+    "image" : "{apphome}/css/Icons/Video_Icons/11.png",
     "description": "We learn about the digital file formats that facilitate online playback of digitized analog video.",
    "lectures": [
         {
@@ -1201,7 +1201,7 @@
 {
     "title": "Quality Control Workflow",
     "anchor": "quality-control-workflow",
-    "icon" : "{apphome}/css/Icons/Video_Icons/12.png",
+    "image" : "{apphome}/css/Icons/Video_Icons/12.png",
     "description": "We learn about approaches to ensuring the quality of the preservation master file.",
     "lectures": [
         {
@@ -1310,7 +1310,7 @@
 {
     "title": "Metadata About Video Files",
     "anchor": "metadata-about-video-files",
-    "icon" : "{apphome}/css/Icons/Video_Icons/13.png",
+    "image" : "{apphome}/css/Icons/Video_Icons/13.png",
     "description": "We learn about standards for documenting the technical features of digitized video in external databases.",
     "lectures": [
         {
@@ -1388,7 +1388,7 @@
 {
     "title": "Future of Video Digitization",
     "anchor": "future-of-video-digitization",
-    "icon" : "{apphome}/css/Icons/Video_Icons/14.png",
+    "image" : "{apphome}/css/Icons/Video_Icons/14.png",
     "description": "We learn about the aspirations of the standards community for long-term preservation and access.",
    "lectures": [
         {
