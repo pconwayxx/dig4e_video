@@ -13,7 +13,7 @@
 }
 
 .tsugi-lessons-module-description{
-    color: hsl(0, 0%, 33%);
+    color: #555555;
     font-family: "Lusitana", Sans-Serif;
     font-weight: 500;
     font-size: 24px;
@@ -48,7 +48,7 @@
 }
 
 .tsugi-lessons-module-lecture-youtube a::before{
-    background-image: url('icons/Video/play-button-12.png');
+    background-image: url('css/Icons/Video_Icons/Video.png');
     background-size: 2em 2em;
     display: inline-block;
     width: 2em;
@@ -60,7 +60,7 @@
 }
 
 .tsugi-lessons-module-lecture-audio a::before{
-    background-image: url('icons/Video/microphone-14.png');
+    background-image: url('css/Icons/Video_Icons/Audio.png');
     background-size: 2em 2em;
     display: inline-block;
     width: 2em;
@@ -111,7 +111,7 @@
 */
 
 .tsugi-lessons-module-reference-icon{
-    background-image: url('icons/Video/file-10-150x150.png');
+    background-image: url('css/Icons/Video_Icons/Resource.png');
     background-size: 2em 2em;
     display: inline-block;
     width: 2em;
@@ -153,7 +153,7 @@
 }
 
 .tsugi-lessons-module-assignment-youtube a::before{
-    background-image: url('Icons/Imaging_Icons/Video.png');
+    background-image: url('css/Icons/Video_Icons/Video.png');
     background-size: 2em 2em;
     display: inline-block;
     width: 2em;
@@ -164,7 +164,7 @@
     vertical-align: top;
 }
 .tsugi-lessons-module-assignment-icon-audio{
-    background-image: url('Icons/Imaging_Icons/Audio.png');
+    background-image: url('css/Icons/Video_Icons/Audio.png');
     background-size: 2em 2em;
     display: inline-block;
     width: 2em;
@@ -175,7 +175,7 @@
     vertical-align: top;
 }
 .tsugi-lessons-module-assignment-icon{
-    background-image: url('Icons/Imaging_Icons/Resource.png');
+    background-image: url('css/Icons/Video_Icons/Resource.png');
     background-size: 2em 2em;
     display: inline-block;
     width: 2em;
@@ -232,4 +232,3 @@
     font-family: "Font Awesome 5 Free"; font-weight: 900; content: "\f5ab";
     padding-right: 3px;
 }
-
