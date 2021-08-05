@@ -48,7 +48,7 @@
 }
 
 .tsugi-lessons-module-lecture-youtube a::before{
-    background-image: url('css/Icons/Video_Icons/Video.png');
+    background-image: url('icons/Video_Icons/Video.png');
     background-size: 2em 2em;
     display: inline-block;
     width: 2em;
