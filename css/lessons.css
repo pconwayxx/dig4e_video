@@ -48,7 +48,7 @@
 }
 
 .tsugi-lessons-module-lecture-youtube a::before{
-    background-image: url('icons/Video_Icons/Video.png');
+    background-image: url('Icons/Video_Icons/Video.png');
     background-size: 2em 2em;
     display: inline-block;
     width: 2em;
@@ -60,7 +60,7 @@
 }
 
 .tsugi-lessons-module-lecture-audio a::before{
-    background-image: url('icons/Video_Icons/Audio.png');
+    background-image: url('Icons/Video_Icons/Audio.png');
     background-size: 2em 2em;
     display: inline-block;
     width: 2em;
@@ -111,7 +111,7 @@
 */
 
 .tsugi-lessons-module-reference-icon{
-    background-image: url('icons/Video_Icons/Resource.png');
+    background-image: url('Icons/Video_Icons/Resource.png');
     background-size: 2em 2em;
     display: inline-block;
     width: 2em;
@@ -153,7 +153,7 @@
 }
 
 .tsugi-lessons-module-assignment-youtube a::before{
-    background-image: url('icons/Video_Icons/Video.png');
+    background-image: url('Icons/Video_Icons/Video.png');
     background-size: 2em 2em;
     display: inline-block;
     width: 2em;
@@ -164,7 +164,7 @@
     vertical-align: top;
 }
 .tsugi-lessons-module-assignment-icon-audio{
-    background-image: url('icons/Video_Icons/Audio.png');
+    background-image: url('Icons/Video_Icons/Audio.png');
     background-size: 2em 2em;
     display: inline-block;
     width: 2em;
@@ -175,7 +175,7 @@
     vertical-align: top;
 }
 .tsugi-lessons-module-assignment-icon{
-    background-image: url('icons/Video_Icons/Resource.png');
+    background-image: url('Icons/Video_Icons/Resource.png');
     background-size: 2em 2em;
     display: inline-block;
     width: 2em;
@@ -205,7 +205,7 @@
 }
 
 .tsugi-lessons-module-slides::before{
-    background-image: url('icons/slides.png');
+    background-image: url('Icons/slides.png');
     background-size: 2em 2em;
     display: inline-block;
     width: 2em;
