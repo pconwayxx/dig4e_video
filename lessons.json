@@ -1,6 +1,6 @@
 {
     "title": "Digitization for Everybody (Dig4E) - Video",
-    "description" : "Hello and welcome to my site where you can learn about the present state of standards and recommended best practices for creating digital still images from photographic and graphic source materials.",
+    "description" : "Welcome to Dig4E-Video.  We have designed this online course to help you learn about the present state of standards and best practices for creating archival-quality digital surrogates of analog video resources.",
     "count": true,
     "required_modules": [
         "https://github.com/tsugitools/peer-grade"
